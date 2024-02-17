@@ -1,0 +1,23 @@
+Yêu cầu phần cứng
+- vs code
+- node, npm
+- reids
+
+- Đăng ký
+- Đăng nhập
+- Quên mật khẩu
+- Tìm kiếm tài khoản ng khác bằng email
+- nhắn tin đơn
+- nhắn tin dạng icon
+- thả icon cho tin nhắn
+- Thu hồi tin nhắn
+- xoá tin nhắn phía tôi
+- rep tin nhắn
+- kiểm tra trạng thái đang soạn tin
+- Trạng thái hoạt động ( khi là bạn bè)
+- 
+- Gửi yêu cầu kb
+- Kết bạn
+- hiển thị ds bạn bè
+
+- Lọc các cuộc trò chuyện đã đọc - chưa đọc

@@ -1,0 +1,12 @@
+- đăng nhập
+- đăng ký
+- đổi mật khẩu
+- tìm kiếm người khác qua email
+- nhắn tin đơn dạng văn bản
+- nhắn tin dạng sticker
+- Thu hồi tin nhắn
+- xoá tin nhắn phía tôi
+- thả icon cho tin nhắn
+- gửi yêu cầu kết bạn
+- kiểm tra trạng thái đang soạn tin
+- kiểm tra trạng thái hoặt động
